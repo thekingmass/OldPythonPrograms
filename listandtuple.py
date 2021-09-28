@@ -1,0 +1,16 @@
+list = ['pratik', 'kumar', 'rajan', 'suraj', 256, 98.36]
+print(list)
+print(list[5])
+list.append('mini 14')
+print(list)
+list.insert(3, 'tyota')
+print(list)
+print(list.pop(2))
+print(list)
+print(list.pop())
+list[2] = 58
+print(list)
+tup = ('angular', 'verticle', 'horizontal', 'parallel', 'serial')
+print(tup)
+print(tup[3])
+print(tup)
